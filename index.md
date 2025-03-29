@@ -5,6 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-- [] So many buttons i need to learn
-- [] Update 4 task
-- [] Do another lesson
+- [x] Turn on GitHub Pages
+- [ ] Update 4 task
+- [ ] Do another lesson
